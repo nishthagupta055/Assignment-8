@@ -18,7 +18,7 @@ int main() {
     
     // Check if the number returned is even:
     if(x % 2 == 0){
-      cout << x << " ";
+      printf("%d",x);
       n--;
     }
   }
